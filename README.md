@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://saviorodrigues5.github.io/Personal-website/"><img src="https://img.shields.io/badge/Portfolio-FF7F50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://savio-rodrigues.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-FF7F50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/saviorodrigues579/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/SavioRodrigues5"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
@@ -46,7 +46,7 @@ A personal website created to showcase my software development projects, technic
 - Focused on **clean presentation, accessibility, and easy navigation**
 - Acts as a professional hub for my work and online presence.
   
-![Personalwebsite](https://img.shields.io/badge/PortfolioSite-Visit-brightgreen?style=for-the-badge)
+[![Personalwebsite](https://img.shields.io/badge/PortfolioSite-Visit-brightgreen?style=for-the-badge)](https://savio-rodrigues.netlify.app)
 
 ### Academimate ###
 **Student Housing & Roommate Matching Platform**
@@ -68,7 +68,7 @@ A personal website created to showcase my software development projects, technic
 ## Let's Connect ##
 - 📧 savorodrigues05@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/saviorodrigues579/)
-- 🌐 [Portfolio](https://saviorodrigues5.github.io/Personal-website/)
+- 🌐 [Portfolio](https://savio-rodrigues.netlify.app)
 
 
 <p align="center">
