@@ -46,7 +46,7 @@ A personal website created to showcase my software development projects, technic
 - Focused on **clean presentation, accessibility, and easy navigation**
 - Acts as a professional hub for my work and online presence.
   
-[![Personalwebsite](https://img.shields.io/badge/PortfolioSite-Visit-brightgreen?style=for-the-badge)](https://savio-rodrigues.netlify.app)
+[![Personalwebsite](https://img.shields.io/badge/Portfolio Site-Visit-brightgreen?style=for-the-badge)](https://savio-rodrigues.netlify.app)
 
 ### Academimate ###
 **Student Housing & Roommate Matching Platform**
