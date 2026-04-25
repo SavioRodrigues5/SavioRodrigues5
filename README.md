@@ -62,6 +62,7 @@ A personal website created to showcase my software development projects, technic
 **Android Mobile App**
 - Built with **Kotlin, SQLite, Firebase Firestore**
 - Features geolocation, photo capture, and cloud sync.
+  
 [![Repo](https://img.shields.io/badge/GitHub-Repo-111111?style=for-the-badge&logo=github)](https://github.com/SavioRodrigues5/BirdWatchingApp)
 
 ## Currently ##
