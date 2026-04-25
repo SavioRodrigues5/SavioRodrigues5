@@ -49,18 +49,20 @@ A personal website created to showcase my software development projects, technic
 [![Personal website](https://img.shields.io/badge/PortfolioWebSite-Visit-brightgreen?style=for-the-badge)](https://savio-rodrigues.netlify.app)
 
 ### Academimate ###
-**Student Housing & Roommate Matching Platform**
-- Built with **PHP (MVC), MySQL, HTML, CSS, JavaScript**
-- Roommate matching system based on lifestyle and academic preferences
-- Agile (Scrum & Kanban) development methodology
+**Student Housing & Roommate Matching Platform**.
+- Built with **PHP (MVC), MySQL, HTML, CSS, JavaScript**.
+- Roommate matching system based on lifestyle and academic preferences.
+- Agile (Scrum & Kanban) development methodology.
+  
+[![Repo](https://img.shields.io/badge/GitHub-Repo-111111?style=for-the-badge&logo=github)](https://github.com/SavioRodrigues5/AcademiMate)  
 [![Academimate](https://img.shields.io/badge/Academimate-Visit-brightgreen?style=for-the-badge)](https://academimate.ct.ws/view/index.php)
 
 
 ### Bird Watcher App ###
 **Android Mobile App**
 - Built with **Kotlin, SQLite, Firebase Firestore**
-- Features geolocation, photo capture, and cloud sync
-- [![Repo](https://img.shields.io/badge/GitHub-Repo-111111?style=for-the-badge&logo=github)](https://github.com/SavioRodrigues5/BirdWatchingApp)
+- Features geolocation, photo capture, and cloud sync.
+[![Repo](https://img.shields.io/badge/GitHub-Repo-111111?style=for-the-badge&logo=github)](https://github.com/SavioRodrigues5/BirdWatchingApp)
 
 ## Currently ##
 - 🎓 Studying **MSc Computer Science** at University of Greenwich
