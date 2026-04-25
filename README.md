@@ -46,13 +46,15 @@ A personal website created to showcase my software development projects, technic
 - Focused on **clean presentation, accessibility, and easy navigation**
 - Acts as a professional hub for my work and online presence.
   
-[![Personalwebsite](https://img.shields.io/badge/PortfolioWebSite-Visit-brightgreen?style=for-the-badge)](https://savio-rodrigues.netlify.app)
+[![Personal website](https://img.shields.io/badge/PortfolioWebSite-Visit-brightgreen?style=for-the-badge)](https://savio-rodrigues.netlify.app)
 
 ### Academimate ###
 **Student Housing & Roommate Matching Platform**
 - Built with **PHP (MVC), MySQL, HTML, CSS, JavaScript**
 - Roommate matching system based on lifestyle and academic preferences
 - Agile (Scrum & Kanban) development methodology
+[![Academimate](https://img.shields.io/badge/Academimate-Visit-brightgreen?style=for-the-badge)](https://academimate.ct.ws/view/index.php)
+
 
 ### Bird Watcher App ###
 **Android Mobile App**
